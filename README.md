@@ -1,9 +1,9 @@
-### RandomWheel Project ###
+## RandomWheel Project ##
 
 RandomWheel là một ứng dụng Java giúp tạo ra một vòng quay ngẫu nhiên để lựa chọn ngẫu nhiên từ danh sách các mục nhập.
 Ứng dụng có thể được sử dụng cho nhiều mục đích như chọn người chiến thắng trong một cuộc thi, quyết định ngẫu nhiên một lựa chọn, hoặc tạo sự ngẫu nhiên cho các trò chơi.
 
-# Tính năng / Features
+## Tính năng / Features
 
 - Quay vòng ngẫu nhiên: Bạn có thể tạo vòng quay với danh sách các mục tùy chỉnh.
   
@@ -13,7 +13,7 @@ RandomWheel là một ứng dụng Java giúp tạo ra một vòng quay ngẫu n
 
 ## Yêu cầu / Prerequisites: JDK (Phiên bản 8 trở lên)
 
-### Cài đặt ứng dụng / Installing the app
+## Cài đặt ứng dụng / Installing the app
 
 1. Clone repository về máy: git clone https://github.com/VBinh071205/RandomWheel.git
 
@@ -21,7 +21,7 @@ RandomWheel là một ứng dụng Java giúp tạo ra một vòng quay ngẫu n
 
 3. Chạy chương trình: java RandomWheel.java
 
-#### Lưu ý / Attentive
+## Lưu ý / Attentive
 
 1. Project vẫn chưa có UI, đang cần fix thêm
 
@@ -31,5 +31,5 @@ RandomWheel là một ứng dụng Java giúp tạo ra một vòng quay ngẫu n
 
 4. Sẽ không có tính năng tuỳ chọn màu sắc (hoặc tương lai sẽ có nếu học tập đủ tốt)
 
-##### Thông tin dự án / Project information
+## Thông tin dự án / Project information
                       ### Null ###
