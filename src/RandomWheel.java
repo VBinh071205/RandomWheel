@@ -10,7 +10,7 @@ import javax.swing.*;
 public class RandomWheel {
     private ArrayList<String> options = new ArrayList<>();
     private ArrayList<String> spinHistory = new ArrayList<>();
-    private final int MAX_OPTIONS = 10;
+    private final int MAX_OPTIONS = 20;
     private final int MAX_HISTORY = 10;
     private final ArrayList<Color> wheelColors = new ArrayList<>();
     private boolean removeAfterSpin = false;
@@ -239,3 +239,5 @@ public class RandomWheel {
         SwingUtilities.invokeLater(RandomWheel::new);
     }
 }
+
+
